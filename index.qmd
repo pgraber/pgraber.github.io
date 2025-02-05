@@ -1,0 +1,27 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/220412_CCIA-10541.jpg"
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/philipp-graber-684b67229/
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/PH_Graber
+    - icon: github
+      text: Github
+      href: https://github.com/pgraber
+    - icon: envelope
+      text: Email
+      href: "mailto:phgraber11@gmail.com"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+
+
